@@ -1,9 +1,11 @@
-![Uploading github_banner_1600x400.png…]()
-# Prince-Sharma
-Building AI assistants, voice robots &amp; trading tools in Python | Groq, ESP32, PyQt5 Python dev | AI projects, robotics, automation | Learning in public
+Loki-Dev
+
+Building AI assistants, voice robots & trading tools in Python | Groq, ESP32, PyQt5
+Python dev | AI projects, robotics, automation | Learning in public
+Location, Website: apna YouTube ya Instagram link daal do.
 <h1 align="center">Hi, I'm Loki 👋</h1>
 <p align="center">
-  <img src="banner.png" alt="banner" width="100%"/>
+  <img src="github_banner_1600x400" alt="banner" width="100%"/>
 </p>
 <p align="center"><b>AI Builder | Python Developer | Robotics Learner</b></p>
 
