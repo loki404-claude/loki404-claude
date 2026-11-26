@@ -5,7 +5,7 @@ Python dev | AI projects, robotics, automation | Learning in public
 Location, Website: apna YouTube ya Instagram link daal do.
 <h1 align="center">Hi, I'm Loki 👋</h1>
 <p align="center">
-  <img src="github_banner_1600x400" alt="banner" width="100%"/>
+  <img width="1600" height="400" alt="github_banner_1600x400" src="https://github.com/user-attachments/assets/ddb0664c-f160-4b17-be1b-8b7bfc8d1b79" />
 </p>
 <p align="center"><b>AI Builder | Python Developer | Robotics Learner</b></p>
 
