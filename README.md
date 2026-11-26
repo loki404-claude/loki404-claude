@@ -1,3 +1,4 @@
+![Uploading github_banner_1600x400.png…]()
 # Prince-Sharma
 Building AI assistants, voice robots &amp; trading tools in Python | Groq, ESP32, PyQt5 Python dev | AI projects, robotics, automation | Learning in public
 <h1 align="center">Hi, I'm Loki 👋</h1>
